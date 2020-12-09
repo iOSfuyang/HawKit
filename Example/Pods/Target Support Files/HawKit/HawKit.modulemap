@@ -1,0 +1,6 @@
+framework module HawKit {
+  umbrella header "HawKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

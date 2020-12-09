@@ -7,7 +7,7 @@
 //
 
 #import "HAWViewController.h"
-
+#import "NSString+Haw.h"
 @interface HAWViewController ()
 
 @end

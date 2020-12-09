@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HawKit (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HawKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HawKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HawKit: 4785e320e6a5a5df34d219db6787e1d22db8db4a
+
+PODFILE CHECKSUM: b94f598b9b28dbb36fd95cb0d2ea3f4c60111df1
+
+COCOAPODS: 1.10.0
